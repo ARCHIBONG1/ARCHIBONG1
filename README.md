@@ -3,9 +3,9 @@
 
 😄 I'm Archibong.
 
--🌱 Deeply passionate and love diving into the exciting world of ML/DL. 
--⚡  Primary domain knowledge is Geophysics but I enjoy applying ML/DL techniques across all fields. 
--👯 I'm open to collaborations and fascinating projects. Let's join forces and innovate!
+🌱 Deeply passionate and love diving into the exciting world of ML/DL. <br> 
+-⚡  Primary domain knowledge is Geophysics but I enjoy applying ML/DL techniques across all fields. <br> 
+-👯 I'm open to collaborations and fascinating projects. Let's join forces and innovate!<br> 
 
 
 
