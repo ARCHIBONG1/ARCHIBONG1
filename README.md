@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi 👋
+### Welcome to my page!!!
+
+😄 I'm Archibong.
+
+🌱 Deeply passionate and love diving into the exciting world of ML/DL. 
+⚡  Primary domain knowledge is Geophysics but I enjoy applying ML/DL techniques across all fields. 
+👯 I'm open to collaborations and fascinating projects. 
+Let's join forces and innovate!
+
 
 <!--
 **ARCHIBONG1/ARCHIBONG1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
